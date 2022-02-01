@@ -21,3 +21,7 @@ https://typescript-todolist-b41.netlify.app
    (브라우저가 뜨지 않는 경우 : http://localhost:3000 를 주소창에 입력해서 들어가세요.)
 
 5. 터미널에서 'Ctrl + C'를 누르면 실행이 종료됩니다.
+
+## 참조
+PedroTech : Todo List in ReactJS using TypeScript Tutorial
+https://www.youtube.com/watch?v=bjnW2NLAofI
